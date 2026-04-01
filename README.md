@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Kevin, sou estudante de Engenharia de Software da Universidade de Mogi das Cruzes e fascinado por desenvolvimento de aplicações back-end.</p>
+<p align="left">Me chamo Kevin, sou estudante de Engenharia de Software na Universidade de Mogi das Cruzes e estou construindo minha base na área de desenvolvimento back-end. Tenho dedicado meus estudos a Java, Spring Boot, MySQL e Git, com foco em desenvolver projetos práticos, fortalecer minha lógica de programação e evoluir de forma consistente rumo ao mercado de tecnologia.</p>
 
 ###
 
